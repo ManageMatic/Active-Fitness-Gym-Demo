@@ -44,7 +44,7 @@ export default function Location() {
                   <p className="text-white font-medium">2nd Floor, The Palace</p>
                   <p>Opposite Capital Square</p>
                   <p>Parvat Gam, Shakti Nagar</p>
-                  <p>Surat, Gujarat 395010, India</p>
+                  <p>Surat, Gujarat 395012, India</p>
                 </div>
               </div>
 
@@ -95,7 +95,7 @@ export default function Location() {
               {/* High-contrast Google Maps embed iframe */}
               <iframe
                 title="Active Fitness Gym Location on Google Maps"
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3720.082711681283!2d72.86877!3d21.1895!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be04fbcbcbcbcbd%3A0x123456789abcdef!2sThe%20Palace%2C%20Parvat%20Gam%2C%20Surat!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin"
+                src={businessInfo.mapsEmbed}
                 className="w-full h-full border-0 grayscale invert opacity-75 hover:opacity-100 transition-opacity"
                 loading="lazy"
                 referrerPolicy="no-referrer-when-downgrade"

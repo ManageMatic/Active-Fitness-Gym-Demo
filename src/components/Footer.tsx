@@ -111,7 +111,7 @@ export default function Footer() {
                 <div className="text-zinc-300 leading-relaxed font-light">
                   <p className="font-semibold text-white">The Palace (2nd Floor)</p>
                   <p>Opposite Capital Square</p>
-                  <p>Parvat Gam, Shakti Nagar, Surat 395010</p>
+                  <p>Parvat Gam, Shakti Nagar, Surat 395012</p>
                 </div>
               </div>
 
